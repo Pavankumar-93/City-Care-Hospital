@@ -2,4 +2,4 @@ __pycache__/
 *.pyc
 instance/
 hospital.db
-.venv/
+.venv/database.db
